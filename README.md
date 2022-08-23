@@ -1,4 +1,9 @@
-### Hi there 👋
+### Jordan
+# PSU '25 -- Computer Science
+# JavaScript, Python, C++ Dev
+
+
+
 
 <!--
 **Nexaite/Nexaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-### Jordan
-# PSU '25 -- Computer Science
-# JavaScript, Python, C++ Dev
+# Jordan
+### PSU '25 -- Computer Science
+### JavaScript, Python, C++ Dev
 
 
 
